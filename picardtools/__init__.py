@@ -7,4 +7,5 @@ MarkDuplicates
     wrapper for picard's MarkDuplicates, compatable with seqalign
 """
 
+from picardtools.env import JAR
 from picardtools.picardtools import MarkDuplicates

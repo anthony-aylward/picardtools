@@ -5,10 +5,10 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name='picardtools',
-    version='0.0.1',
+    version='0.1.0',
     author='Anthony Aylward',
     author_email='aaylward@eng.ucsd.edu',
-    description='python3 interface with Picard Tools from Broad institute.',
+    description='python3 interface with Picard Tools from Broad institute',
     long_description=long_description,
     long_description_content_type="text/markdown",
     url='https://github.com/anthony-aylward/picardtools.git',
