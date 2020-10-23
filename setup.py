@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name='picardtools',
-    version='0.1.0',
+    version='0.1.1',
     author='Anthony Aylward',
     author_email='aaylward@eng.ucsd.edu',
     description='python3 interface with Picard Tools from Broad institute',
