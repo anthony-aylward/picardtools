@@ -40,7 +40,7 @@ class MarkDuplicates():
     
     def __init__(
         self,
-        jar='/home/data/picard/picard.jar',
+        jar=JAR,
         memory_gb=1,
         assume_sorted=False,
         metrics_file=os.devnull,
